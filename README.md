@@ -8,3 +8,5 @@ comit desde github ah local
 una actualizaacion mas si si mor
 
 cambio desde mi rama local llamada debeloper01
+
+cambios desde dev editor
